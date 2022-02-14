@@ -1,0 +1,4 @@
+export const GET_STUDENTLIST = 'GET_STUDENTLIST';
+export const ADD_STUDENT = 'ADD_STUDENT';
+export const UPDATE_STUDENT = 'UPDATE_STUDENT';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
